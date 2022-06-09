@@ -1,0 +1,12 @@
+- USB aldiktan sonra exceli USB'ye atmak icin
+  koda da USB'nin adini girmek gerek!
+
+- Her bir kişi için fotoğraf çekme sayısı değişirse bu değişkeni kişi silme kodundan da değiştirmek lazım!!!
+
+- face_rec_main - str : 176
+
+
+
+BUG
+- İnternet sorunu yüzünden sheete atamayınca tekrar atmaya çalışırken sorun çıkıyor
+	* ve bazen internet olmasına rağmen bir sebepten dolayı atamama problemi çıkıyor
